@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461205931364",
+    "project_id": "dynamic-dhaka",
+    "storage_bucket": "dynamic-dhaka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461205931364:android:a12b775aacdfc78b842671",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_dhaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461205931364-1svcu1u1v3t638fmfstdlms6uit5el4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dynamic_dhaka",
+            "certificate_hash": "c4d9cf7ad3c410f338b7e84d22f7601253315af0"
+          }
+        },
+        {
+          "client_id": "461205931364-uvc7lshib4pu0uagfo6gra2aajd01cn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMS3oC2rBPYD8CIak3EgRQiv6iZ5s30S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461205931364-uvc7lshib4pu0uagfo6gra2aajd01cn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
